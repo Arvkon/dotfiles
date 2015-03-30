@@ -1,2 +1,3 @@
-# dotfiles
-Various configuration files that I use
+# Various configuration files
+
+**.bash_ignore** - Aliases and variables used in terminal (bash)
